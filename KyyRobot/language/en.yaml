@@ -10,7 +10,7 @@ set_chat_lang: "Great, using {} Language it is from now on!"
 # PM Text
 pm_start_text: |
   *Hey, {} *
-  ✪ ɪ'ᴍ ᴀɴ ᴀɴɪᴍᴇ-ᴛʜᴇᴍᴇ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʀᴏʙᴏᴛ​ [✨](https://telegra.ph/file/ba1a59bcc6dad78333c1d.jpg)
+  ✪ ɪ'ᴍ ᴀɴ ᴀɴɪᴍᴇ-ᴛʜᴇᴍᴇ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʀᴏʙᴏᴛ​ [✨](https://telegra.ph/file/ab41ce39d4030cd664247.jpg)
   × *sᴇʀᴠᴇʀ ᴜᴘᴛɪᴍᴇ​ :* `{}`
   × `{}` *ᴜsᴇʀs, ᴀᴄʀᴏss​* `{}` *ᴄʜᴀᴛs​.*
   ────────────★─────────
@@ -18,29 +18,29 @@ pm_start_text: |
   ✪ ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ ʙʏ :​ @xflyrzu
   
 group_start_array1: |
-   *👋🏻 Hi sir {}, I'm Senn Robot!*
+   *👋🏻 Hi sir {}, I'm Lucky Robot!*
 
    * Active since:* `{}`
 group_start_array2: |
-   *👋🏻 Hi you {}, I'm Senn Robot!*
+   *👋🏻 Hi you {}, I'm Lucky Robot!*
 
    * Active since:* `{}`
 group_start_array3: |
-   *👋🏻 Hi Darling {}, I'm Senn Robot!*
+   *👋🏻 Hi Darling {}, I'm Lucky Robot!*
 
    * Active since:* `{}`
 group_start_array4: |
-   *👋🏻 Hello {}, I'm Senn Robot!*
+   *👋🏻 Hello {}, I'm Lucky Robot!*
 
    * Active since:* `{}`
 group_start_array5: |
-   *👋🏻 Hi, I'm Senn Robot!*
+   *👋🏻 Hi, I'm Lucky Robot!*
    *Can I help you sir {}?*
 
    * Active since:* `{}`
 
 pm_about_text: |
-  ✺ Hey Darling I'm *Senn Robot*, a powerful group management bot built to help you manage your group easily. ✺
+  ✺ Hey Darling I'm *Lucky Robot*, a powerful group management bot built to help you manage your group easily. ✺
 
   ✪ I can restrict users.
   ✪ I can greet users with customizable welcome messages and even set a group's rules.
@@ -50,11 +50,11 @@ pm_about_text: |
   ✪ I check for admins' permissions before executing any command and more stuffs
 
   _Senn licensed under the GNU General Public License v3.0_
-  Click on button bellow to get basic help for Senn Robot.
+  Click on button bellow to get basic help for Lucky Robot.
 pm_about_admin_text: |
   *✺ Let's make your group bit effective now ✺*
 
-  Congragulations, Senn Robot now ready to manage your group.
+  Congragulations, Lucky Robot now ready to manage your group.
 
   *Admin Tools*
   Basic Admin tools help you to protect and powerup your group.
